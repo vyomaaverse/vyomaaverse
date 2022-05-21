@@ -36,5 +36,5 @@ You can find me here :
 <a href="https://github.com/vyomaaverse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyomaaverse&theme=tokyonight&layout=compact&" />
 </a>
-
-[![Vyomaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vyomaaverse&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</br>
+[![Vyomaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vyomaaverse&theme=github)](https://github.com/vyomaaverse)
