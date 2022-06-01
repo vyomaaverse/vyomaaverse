@@ -1,5 +1,4 @@
-### Hi there, I'm Nandita <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
-
+### Hi there, I'm Nandita 👋
 <!--
 **vyomaaverse/vyomaaverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
