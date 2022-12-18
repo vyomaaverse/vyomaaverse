@@ -13,8 +13,6 @@
 
 - 🎓 Undergraduate student from NIT Bhopal
 - 📝 Majoring in Computer Science and Engineering 
-- 💬 Pronouns: she/her
-- ⚡ Ask me about Flight sims over coffee
 
 
 ## GitHub Statistics
