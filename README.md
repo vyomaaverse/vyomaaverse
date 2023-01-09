@@ -21,6 +21,6 @@
 <!-- 
 [![Vyomaa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vyomaaverse&theme=github)](https://github.com/vyomaaverse) -->
 
-<a href="https://github.com/vyomaaverse">
+<!-- <a href="https://github.com/vyomaaverse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyomaaverse&theme=tokyonight&layout=compact&" />
-</a>
+</a> -->
